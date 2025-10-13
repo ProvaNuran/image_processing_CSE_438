@@ -17,13 +17,3 @@ Morphological transformations (dilation, erosion, etc.)
 Histogram analysis
 
 
-
-Technologies Used
-
-Python 3.x
-
-OpenCV (cv2)
-
-NumPy
-
-Matplotlib – for visualization
